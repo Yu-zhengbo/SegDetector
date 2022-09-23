@@ -1,0 +1,5 @@
+no-damage
+minor-damage
+major-damage
+destroyed
+un-classified
